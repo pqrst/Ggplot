@@ -1,9 +1,18 @@
 # Exploring Iris dataset with ggplot2
 
+## To check relation between Sepal length and Speal width 
 ![rplot16](https://user-images.githubusercontent.com/5343403/36348478-46fa36c2-1436-11e8-88c8-0f0fde5482ca.png)
+
+## Marking the species by different colors
 ![rplot15](https://user-images.githubusercontent.com/5343403/36348479-4d77dc98-1436-11e8-8871-75b6e3a95020.png)
+
+## On top of this scatter plot, adding a trend line to visualize the general trend 
 ![rplot14](https://user-images.githubusercontent.com/5343403/36348480-4fed5250-1436-11e8-8560-aeace78a27cc.png)
+
+## Turning off the grey area, which is the confident interval
 ![rplot13](https://user-images.githubusercontent.com/5343403/36348481-5226d712-1436-11e8-9bd7-3f7502be97d7.png)
+
+## Dividing the plot into multiple plots, one for each species
 ![rplot12](https://user-images.githubusercontent.com/5343403/36348482-549465f0-1436-11e8-8287-ff9c578fec7d.png)
 ![rplot11](https://user-images.githubusercontent.com/5343403/36348483-574760e0-1436-11e8-8074-13b1e8210c11.png)
 ![rplot10](https://user-images.githubusercontent.com/5343403/36348493-7d7819d0-1436-11e8-8b80-8e16f2d5f440.png)
